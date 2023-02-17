@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T18:14:50.567403100Z</date>
+  <millis>1676571290567</millis>
+  <nanos>403100</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>fillArray</method>
+  <thread>1</thread>
+  <message>Исходный массив [5, 8, 7, 6, 8, 9, 9, 2]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.679409500Z</date>
+  <millis>1676571290679</millis>
+  <nanos>409500</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0/1  [5, 7, 8, 6, 8, 9, 9, 2]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.703410800Z</date>
+  <millis>1676571290703</millis>
+  <nanos>410800</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0/2  [5, 7, 6, 8, 8, 9, 9, 2]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.716411600Z</date>
+  <millis>1676571290716</millis>
+  <nanos>411600</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0/6  [5, 7, 6, 8, 8, 9, 2, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.725412100Z</date>
+  <millis>1676571290725</millis>
+  <nanos>412100</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1/1  [5, 6, 7, 8, 8, 9, 2, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.735412700Z</date>
+  <millis>1676571290735</millis>
+  <nanos>412700</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1/5  [5, 6, 7, 8, 8, 2, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.745413200Z</date>
+  <millis>1676571290745</millis>
+  <nanos>413200</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2/4  [5, 6, 7, 8, 2, 8, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.756413900Z</date>
+  <millis>1676571290756</millis>
+  <nanos>413900</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3/3  [5, 6, 7, 2, 8, 8, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.768414600Z</date>
+  <millis>1676571290768</millis>
+  <nanos>414600</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 4/2  [5, 6, 2, 7, 8, 8, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.777415100Z</date>
+  <millis>1676571290777</millis>
+  <nanos>415100</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 5/1  [5, 2, 6, 7, 8, 8, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.785415500Z</date>
+  <millis>1676571290785</millis>
+  <nanos>415500</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 6/0  [2, 5, 6, 7, 8, 8, 9, 9]</message>
+</record>
+<record>
+  <date>2023-02-16T18:14:50.862419900Z</date>
+  <millis>1676571290862</millis>
+  <nanos>419900</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWork.HomeWork2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HomeWork2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Отсортированный массив [2, 5, 6, 7, 8, 8, 9, 9]</message>
+</record>
+</log>
