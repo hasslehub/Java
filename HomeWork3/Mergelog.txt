@@ -1,0 +1,526 @@
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 printArrayInt
+INFO: [89, 58, 24, 61, 95, 30, 49, 67, 10, 47, 44, 98, 29, 28, 64, 24, 87, 65, 9, 39, 11, 46, 94, 52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [89, 58, 24, 61, 95, 30, 49, 67, 10, 47, 44, 98, 29, 28, 64, 24, 87, 65, 9, 39, 11, 46, 94, 52, 95] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 1 шаг. Массив с левой частью[89, 58, 24, 61, 95, 30, 49, 67, 10, 47, 44, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 2 шаг. Массив с правой частью[29, 28, 64, 24, 87, 65, 9, 39, 11, 46, 94, 52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [89, 58, 24, 61, 95, 30, 49, 67, 10, 47, 44, 98] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 3 шаг. Массив с левой частью[89, 58, 24, 61, 95, 30]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 4 шаг. Массив с правой частью[49, 67, 10, 47, 44, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [89, 58, 24, 61, 95, 30] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 5 шаг. Массив с левой частью[89, 58, 24]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 6 шаг. Массив с правой частью[61, 95, 30]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [89, 58, 24] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 7 шаг. Массив с левой частью[89]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 8 шаг. Массив с правой частью[58, 24]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [58, 24] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 9 шаг. Массив с левой частью[58]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 10 шаг. Массив с правой частью[24]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [24, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 58 в [24, 58]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [24, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 58 в [24, 58, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 89 в [24, 58, 89]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [61, 95, 30] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 11 шаг. Массив с левой частью[61]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 12 шаг. Массив с правой частью[95, 30]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [95, 30] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 13 шаг. Массив с левой частью[95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 14 шаг. Массив с правой частью[30]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 30 в [30, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 95 в [30, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 30 в [30, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 61 95
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 61 в [30, 61, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [30, 61, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 24 30
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [24, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 30 в [24, 30, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 58 61
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 58 в [24, 30, 58, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 61 в [24, 30, 58, 61, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 89 95
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 89 в [24, 30, 58, 61, 89, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [24, 30, 58, 61, 89, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [49, 67, 10, 47, 44, 98] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 15 шаг. Массив с левой частью[49, 67, 10]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 16 шаг. Массив с правой частью[47, 44, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [49, 67, 10] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 17 шаг. Массив с левой частью[49]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 18 шаг. Массив с правой частью[67, 10]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [67, 10] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 19 шаг. Массив с левой частью[67]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 20 шаг. Массив с правой частью[10]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 10 в [10, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 67 в [10, 67]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 10 в [10, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 49 67
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 49 в [10, 49, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 67 в [10, 49, 67]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [47, 44, 98] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 21 шаг. Массив с левой частью[47]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 22 шаг. Массив с правой частью[44, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [44, 98] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 23 шаг. Массив с левой частью[44]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 24 шаг. Массив с правой частью[98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 44 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 44 в [44, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 98 в [44, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 44 в [44, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 47 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 47 в [44, 47, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 98 в [44, 47, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 10 44
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 10 в [10, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 44 в [10, 44, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 47 в [10, 44, 47, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 49 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 49 в [10, 44, 47, 49, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 67 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 67 в [10, 44, 47, 49, 67, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 98 в [10, 44, 47, 49, 67, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 10 в [10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 24 44
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [10, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 30 44
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 30 в [10, 24, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 44 в [10, 24, 30, 44, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 47 в [10, 24, 30, 44, 47, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 49 в [10, 24, 30, 44, 47, 49, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 58 67
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 58 в [10, 24, 30, 44, 47, 49, 58, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 61 67
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 61 в [10, 24, 30, 44, 47, 49, 58, 61, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 67 в [10, 24, 30, 44, 47, 49, 58, 61, 67, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 89 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 89 в [10, 24, 30, 44, 47, 49, 58, 61, 67, 89, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 95 98
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 95 в [10, 24, 30, 44, 47, 49, 58, 61, 67, 89, 95, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 98 в [10, 24, 30, 44, 47, 49, 58, 61, 67, 89, 95, 98]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [29, 28, 64, 24, 87, 65, 9, 39, 11, 46, 94, 52, 95] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 25 шаг. Массив с левой частью[29, 28, 64, 24, 87, 65]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 26 шаг. Массив с правой частью[9, 39, 11, 46, 94, 52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [29, 28, 64, 24, 87, 65] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 27 шаг. Массив с левой частью[29, 28, 64]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 28 шаг. Массив с правой частью[24, 87, 65]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [29, 28, 64] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 29 шаг. Массив с левой частью[29]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 30 шаг. Массив с правой частью[28, 64]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [28, 64] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 31 шаг. Массив с левой частью[28]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 32 шаг. Массив с правой частью[64]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 28 64
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 28 в [28, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 64 в [28, 64]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 28 в [28, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 29 64
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 29 в [28, 29, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 64 в [28, 29, 64]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [24, 87, 65] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 33 шаг. Массив с левой частью[24]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 34 шаг. Массив с правой частью[87, 65]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [87, 65] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 35 шаг. Массив с левой частью[87]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 36 шаг. Массив с правой частью[65]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 65 в [65, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 87 в [65, 87]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 24 65
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [24, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 65 в [24, 65, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 87 в [24, 65, 87]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [24, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 28 65
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 28 в [24, 28, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 29 65
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 29 в [24, 28, 29, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 64 65
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 64 в [24, 28, 29, 64, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 65 в [24, 28, 29, 64, 65, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 87 в [24, 28, 29, 64, 65, 87]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [9, 39, 11, 46, 94, 52, 95] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 37 шаг. Массив с левой частью[9, 39, 11]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 38 шаг. Массив с правой частью[46, 94, 52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [9, 39, 11] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 39 шаг. Массив с левой частью[9]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 40 шаг. Массив с правой частью[39, 11]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [39, 11] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 41 шаг. Массив с левой частью[39]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 42 шаг. Массив с правой частью[11]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 11 в [11, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 39 в [11, 39]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 9 11
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 9 в [9, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 11 в [9, 11, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 39 в [9, 11, 39]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [46, 94, 52, 95] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 43 шаг. Массив с левой частью[46, 94]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 44 шаг. Массив с правой частью[52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [46, 94] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 45 шаг. Массив с левой частью[46]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 46 шаг. Массив с правой частью[94]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 46 94
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 46 в [46, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 94 в [46, 94]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: Разбиваем [52, 95] на два массива
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 47 шаг. Массив с левой частью[52]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 fillArray
+INFO: 48 шаг. Массив с правой частью[95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 sortArray
+INFO: В массиве остался 1 элемент
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 52 95
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 52 в [52, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [52, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 46 52
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 46 в [46, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 52 в [46, 52, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 94 95
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 94 в [46, 52, 94, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [46, 52, 94, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 9 46
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 9 в [9, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 11 46
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 11 в [9, 11, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 39 46
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 39 в [9, 11, 39, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 46 в [9, 11, 39, 46, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 52 в [9, 11, 39, 46, 52, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 94 в [9, 11, 39, 46, 52, 94, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [9, 11, 39, 46, 52, 94, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 9 в [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 11 в [9, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 24 39
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [9, 11, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 28 39
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 28 в [9, 11, 24, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 29 39
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 29 в [9, 11, 24, 28, 29, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 39 в [9, 11, 24, 28, 29, 39, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 46 в [9, 11, 24, 28, 29, 39, 46, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 52 в [9, 11, 24, 28, 29, 39, 46, 52, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 64 94
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 64 в [9, 11, 24, 28, 29, 39, 46, 52, 64, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 65 94
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 65 в [9, 11, 24, 28, 29, 39, 46, 52, 64, 65, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 87 94
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 87 в [9, 11, 24, 28, 29, 39, 46, 52, 64, 65, 87, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 94 в [9, 11, 24, 28, 29, 39, 46, 52, 64, 65, 87, 94, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из правого массива 95 в [9, 11, 24, 28, 29, 39, 46, 52, 64, 65, 87, 94, 95]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 9 в [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 10 11
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 10 в [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 11 в [9, 10, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [9, 10, 11, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 24 28
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 24 в [9, 10, 11, 24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 28 в [9, 10, 11, 24, 24, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 29 в [9, 10, 11, 24, 24, 28, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 30 39
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 30 в [9, 10, 11, 24, 24, 28, 29, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 39 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 44 46
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 44 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 46 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 47 52
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 47 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 49 52
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 49 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 52 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 58 64
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 58 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 61 64
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 61 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 64 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 0, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 65 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 0, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 67 87
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 67 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 0, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 87 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 0, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сравниваем элемнты из 2-х массивов 89 94
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 89 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 0, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 94 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 94, 0, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Сохраняем 95 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 94, 95, 0, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 95 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 94, 95, 95, 0]
+февр. 20, 2023 9:55:03 PM HomeWork.HomeWork3.Task1 mergeArray
+INFO: Добавляем элемент из левого массива 98 в [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 94, 95, 95, 98]
+февр. 20, 2023 9:55:04 PM HomeWork.HomeWork3.Task1 printArrayInt
+INFO: [9, 10, 11, 24, 24, 28, 29, 30, 39, 44, 46, 47, 49, 52, 58, 61, 64, 65, 67, 87, 89, 94, 95, 95, 98]
