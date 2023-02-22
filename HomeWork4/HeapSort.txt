@@ -1,0 +1,154 @@
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 printArrayInt
+INFO: [40, 40, 67, 21, 50, 40, 49, 32]
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 HeapSort
+INFO: Создали кучу
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 3;  R = 8;  L= 7;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  32
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 7;  R = 16;  L= 15;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 2;  R = 6;  L= 5;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 67 = 67
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 1;  R = 4;  L= 3;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  50
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 4;  R = 10;  L= 9;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 40 = 40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  67
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 2;  R = 6;  L= 5;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  49
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 6;  R = 14;  L= 13;  size = 8
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 40 = 40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 HeapSort
+INFO: Сортировка
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  67
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 7
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  50
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 1;  R = 4;  L= 3;  size = 7
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 4;  R = 10;  L= 9;  size = 7
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  50
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 6
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  49
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 2;  R = 6;  L= 5;  size = 6
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 40 = 40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 40  и  49
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 5
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 40 = 40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 4
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 1;  R = 4;  L= 3;  size = 4
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  32
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 3;  R = 8;  L= 7;  size = 4
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 3
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 2;  R = 6;  L= 5;  size = 3
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  40
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 2
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  32
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 1;  R = 4;  L= 3;  size = 2
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 swap
+INFO: Меняем местами 21  и  32
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Поик индекса максимального элемента 
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: Индексы кучи   х = 0;  R = 2;  L= 1;  size = 1
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 downMax
+INFO: х == root  --> 21 = 21
+февр. 22, 2023 11:16:41 PM HomeWork.HomeWork4.Task1_1 printArrayInt
+INFO: [21, 32, 40, 40, 40, 49, 50, 67]
